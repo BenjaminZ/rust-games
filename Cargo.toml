@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "moving-dot",
+    "moving-dot-graphics2d"
+]
